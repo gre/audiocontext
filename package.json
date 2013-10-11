@@ -1,6 +1,6 @@
 {
   "name": "audiocontext",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Web Audio API AudioContext shim",
   "keywords": [
     "audio",
